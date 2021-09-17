@@ -9,4 +9,4 @@ You can click the Preview link to take a look at your changes.
 --->
 ## My Github Stats
 
-![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=imsahiljain&count_private=true&hide=prs&include_all_commits=true)
+![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=imsahiljain&theme=default&show_icons=true)
