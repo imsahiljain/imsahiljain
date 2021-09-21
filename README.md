@@ -3,7 +3,7 @@
 - 👀 I’m interested in Programming and Web Development.
 - 🌱 I’m currently learning C++ and Javascript.
 
-## Languages and Tools
+## Languages
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"/></code>
