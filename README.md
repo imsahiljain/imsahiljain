@@ -1,14 +1,17 @@
 ## Hi there, I'm [Sahil!](https://sahiljain.netlify.app) 👋
 - 👋 Hi, I’m Sahil Jain
-- 👀 I’m interested in Programming and Web Development
-- 🌱 I’m currently learning C++ and Javascript
+- 👀 I’m interested in Programming and Web Development.
+- 🌱 I’m currently learning C++ and Javascript.
 
-![](https://komarev.com/ghpvc/?username=imsahiljain&color=green)
+## Languages and Tools
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/></code>
 
-<!---
-imsahiljain/imsahiljain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 ## My Github Stats
 
 ![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=imsahiljain&theme=default&show_icons=true)
