@@ -14,4 +14,4 @@
 
 ## My Github Stats
 
-![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=imsahiljain&theme=default&show_icons=true)
+![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=imsahiljain&show_icons=true)
