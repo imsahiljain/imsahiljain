@@ -14,4 +14,4 @@
 
 ## My Github Stats
 
-![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=imsahiljain&count_private=true&show_icons=true&include_all_commits=true)
+![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=imsahiljain&show_icons=true&include_all_commits=false&count_private=true)
