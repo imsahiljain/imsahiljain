@@ -1,7 +1,7 @@
 ## Hey there, I'm [Sahil!](https://sahiljain.netlify.app) 👋
 - 👋 Hi, I’m Sahil Jain
 - 👀 I’m interested in Programming and Web Development.
-- 🌱 I’m currently learning Python and Javascript.
+- 🌱 I’m currently learning React.
 
 ## Languages
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"/></code>
