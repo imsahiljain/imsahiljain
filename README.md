@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Sahil Jain, a passionate web developer & learner from Delhi.
 - 👀 I'm curious about Web Development, Programming, and Machine Learning.
 - 🌱 I’m currently learning React & Typescript.
-- 📧 Contact me [here](mailto:emailofsahiljain@gmail.com)
+- 📧 Connect with me [here](mailto:emailofsahiljain@gmail.com)
 
 ## Languages and Tools
 
