@@ -1,17 +1,19 @@
 ## Hey there, I'm [Sahil!](https://sahiljain.netlify.app) 👋
-- 👋 Hi, I’m Sahil Jain
-- 👀 I’m interested in Programming and Web Development.
-- 🌱 I’m currently learning React.
 
-## Languages
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"/></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"/></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"/></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"/></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/></code>
+- 👋 Hi, I’m Sahil Jain, a passionate web developer & learner from Delhi.
+- 👀 I'm curious about Web Development, Programming, and Machine Learning.
+- 🌱 I’m currently learning React & Typescript.
+- 📧 Contact me [here](mailto:emailofsahiljain@gmail.com)
 
+## Languages and Tools
+
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ## My Github Stats
 
-![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=imsahiljain&show_icons=true&include_all_commits=false&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=imsahiljain&show_icons=true&include_all_commits=false&count_private=true)
