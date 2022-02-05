@@ -17,3 +17,9 @@
 ## My Github Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=imsahiljain&show_icons=true&include_all_commits=false&count_private=true)
+
+## Socials
+
+<a href="https://www.linkedin.com/in/imsahiljain">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://github.com/imsahiljain">![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+<a href="https://open.spotify.com/user/g3q5vsyofaplb6ptdwqzkwymb">![image](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)</a>
