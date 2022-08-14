@@ -1,6 +1,6 @@
 ## Hey there, I'm [Sahil!](https://sahiljain.netlify.app) 👋
 
-- 👋 Hi, I’m Sahil Jain, a 15 y/o, passionate web developer & learner from Delhi.
+- 👋 Hi, I’m Sahil Jain, a 16 y/o, passionate web developer & learner from Delhi.
 - 👀 I'm curious about Web Development, Programming, and Machine Learning.
 - 🌱 I’m currently learning React & Typescript.
 - 📧 Connect with me [here](mailto:emailofsahiljain@gmail.com)
